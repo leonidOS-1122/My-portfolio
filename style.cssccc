@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+.social{
+    border: 3px solid black;
+    border-radius:30%; 
+}
+h1{
+    font-size: 90px;
+    text-align: center;
+    color: gold;
+    text-shadow: 3px 3px 3px rgb(87, 0, 0);
+
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    color: navy;
+    text-shadow: 3px 3px 3px gold;
+}
+a{
+    font-size: 20px;
+}
