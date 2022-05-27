@@ -1,0 +1,22 @@
+
+<html>
+  <head>
+    <title>My Sites</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Мои сайты</h1>
+      <p class="text-big"><b>от конструктора Tilda до вёрстки на HTML и CSS</b></p>
+      <p><a class="link-text" href="http://minecrafter.life.tilda.ws/"><b>Сайт</b></a> по майнкрафт из нескольких страниц был собран в Tilda</p>
+      <p><a class="link-text" href="https://www.figma.com/file/2mGUyPdNSxYbAUi7dxav4f/%D0%BC6%D1%834-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD?node-id=0%3A1"><b>Макет</b></a> многостраничного сайта, сделанный в Figma</p>
+    </main>
+    <footer>
+      <a class="social" href="https://vk.com/l.kudino4ik"><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+      <a class="social" href="https://github.com/leonidOS-1122"><img src="https://lh3.googleusercontent.com/0fjTDgXwK0rJT07vJ7_nFytV8osQcQNCGkdsCu4tMnzlvprkFW34x_9gGpbuGBkLgVo6U3vE4Jh_LPvfEn0X9-TjNR9lW1LZf8bD_m2nJKmKctGw4A2VVf4YdeeFsOeJXT8V2pAqGip_NMFg8DI8pLi-Rln3tw7fUTZrsf2Jgzs5ebybeMtSFub8Rk2ylWLvvJybgzaQiu7MT8oFAQcf8nXpi0BS_8WXSUDlEsa7Wo-7u2V56YPenE1eaSZVsRqHLLn7ce0u7P6aWfimlzBHlnK0a-cS4OCzvL5sHi0vOe5u0lw7TSvFbSuRZ-GdZDOLnr05H2NWFx2wlVAbAr1XAliXV-vpztbrvV0MU1h33qRFrx4EQRC0yMA_6IlyE0r65kpHYbcX6ncrvSba9RFqJ4i7daWEjeULJ97XVp1iYW_7QPd-Xa_Ok8-f5MFHrZTKGxR0wCSdKhwEPsJSm0xxLL9I5Y86OHp-gL8pPTJY187FeQYtMCaRqo1mxk5GHZqMLhXivke5hkALdgPf65MH3EWIqy0he-dyRbK67dNOK0YljvVdp0SvLDxfzeAzSqSTYXRaF4JvkiO4r5XMea5Vc0pfg_f7pwIH8NXXGMNq_J4f53L0Cv4Ou3035UZ7gkSbSBFCbJk-eX1Ufgj9c9BAk39vEw0WnO3vfd28tBgE27m2_8X6cXeIWbaSiItNpHYQiDrM3_qqyL383n6oiKnkErIcyS4URkTaBOoG8YwA1cCkPqrgibbubF2Y0IE=w1006-h975-no?authuser=0" width="100px" height="100px" /></a>
+    </footer>
+  </body>
+</html>
